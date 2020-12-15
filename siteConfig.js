@@ -7,7 +7,7 @@ module.exports = {
 
     // Initial number fetched, scrolling lazy loads posts one by one
     // If infinite scroll is disabled: maximum number of post shown per page
-    postsPerPage: 60,
+    postsPerPage: 16,
 
     // This allows an alternative site title for meta data for pages.
     siteTitleMeta: `Flourish`,
